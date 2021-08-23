@@ -31,7 +31,7 @@ public class AppConfig {
 
     @Bean
     public DiscountPolicy discountPolicy(){
-        //return new FixDiscountPolicy(); Test
+        //return new FixDiscountPolicy(); Test Test
         return new RateDiscountPolicy();
     }
 }
