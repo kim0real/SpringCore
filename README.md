@@ -1,6 +1,6 @@
 Study Spring Theory
 
-I. Development Stack : JDK11, Gradle, IntelliJ, Spring Web, Etc...
+I. Development Stack And Tools : JDK11, Gradle, IntelliJ, Spring Web, Etc...
 
 II. Contents
 - Spring Container and Spring Bean
