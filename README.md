@@ -1,7 +1,8 @@
-- 객체지향 설계와 스프링
-- 스프링 컨테이너와 스프링 빈
-- 싱글톤 컨테이너
-- 컴포너트 스캔
-- 의존관계 자동주입
-- 빈 생명주기 콜백
-- 빈 스코프
+Study Spring Theory
+- Spring Container and Spring Bean
+- Signleton Container
+- Component Scan
+- DI
+- Bean LifeCycle Callback
+- Bean Scope
+- Etc...
