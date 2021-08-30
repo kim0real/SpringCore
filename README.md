@@ -1,7 +1,7 @@
 Study Spring Theory
-1. Development Stacks : JDK11, Gradle, IntelliJ, Spring Web, Etc...
+I. Development Stacks : JDK11, Gradle, IntelliJ, Spring Web, Etc...
 
-2. Contents
+II. Contents
 - Spring Container and Spring Bean
 - Signleton Container
 - Component Scan
